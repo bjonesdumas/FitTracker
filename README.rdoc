@@ -1,0 +1,4 @@
+This is a workout app created using the BDD method. 
+This app uses Capybara and Rspec for testing.
+Devise for user authentication and sign up.
+SQlite for the database.
